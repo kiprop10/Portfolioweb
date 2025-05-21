@@ -1,0 +1,9 @@
+{
+  "routes": {
+    "/portfolioweb": {},
+    "/portfolioweb/about": {},
+    "/portfolioweb/contact": {},
+    "/portfolioweb/portfolio": {},
+    "/portfolioweb/services": {}
+  }
+}
